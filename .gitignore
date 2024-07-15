@@ -1,2 +1,2 @@
 secrets.json
-secrets.toml
+/.streamlit/secrets.toml
